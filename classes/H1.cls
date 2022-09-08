@@ -10,7 +10,9 @@ public void method2(){
 System.debug('Hello Mirketa I am New Joinee');
 }
 
+
 public void m22(){
 System.debug('Hello team');
+
 }
 }
