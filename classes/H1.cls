@@ -9,4 +9,8 @@ System.debug('Hello Pankaj Nagar');
 public void method2(){
 System.debug('Hello Mirketa I am New Joinee');
 }
+
+public void devOpss(){
+System.debug('Hello Devops');
+}
 }
